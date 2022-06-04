@@ -1,9 +1,12 @@
-#Aleksey Gomon#
-##System Administrator##
-**Jofre Labortechnik JLLC**
+# **Aleksey Gomon**
+
+## _System Administrator_
+
+### Jofre Labortechnik JLLC
+
 `-> 05/2022 to Present`
 
-> CONTACTS
+## CONTACTS
 
 - [leshagomon@gmail.com](mailto:[leshagomon@gmail.com)
 - Brest/Belarus
@@ -11,28 +14,37 @@
 - [LinkedIn](https://www.linkedin.com/in/aleksey-gomon/)
 - [Website](http://bibiriboza.tilda.ws/)
 
-> EDUCATION
+## EDUCATION
 
-- **Brest State Technical University (2007-2012)**
-  _Specialist in computers, systems and networks_
+- ### Brest State Technical University
 
-- **Brest State Technical University (2010-2012)**
-  _Banking Specialist_
+  ->_2007-2012_
+  **Specialist in computers, systems and networks**
 
-- **Lyceum of Luninets (2005-2007)**
-  _Physics and Mathematics_
+- ### Brest State Technical University
 
-> WORK EXPERIENCE
+  ->_2010-2012_
+  **Banking Specialist**
 
-- **Open Joint Stock Company “Brest Stocking Mill”**
+- ### Lyceum of Luninets
+
+  ->_2005-2007_
+  **Physics and Mathematics**
+
+## WORK EXPERIENCE
+
+- ### Open Joint Stock Company “Brest Stocking Mill”
+
   Senior System Administrator
   `-> 10/2015 to 03/2022`
 
-- **Open Joint Stock Company “Brest Beer"**
+- ### Open Joint Stock Company “Brest Beer"
+
   System Administrator
   `-> 11/2012 to 11/2014`
 
-- **Open Joint Stock Company “Brest Electromechanical Factory"**
+- ### Open Joint Stock Company “Brest Electromechanical Factory"
+
   Systems Engineer
   `-> 08/2012 to 11/2012`
 
