@@ -1,3 +1,1 @@
-# rsschool-cv
-
-rs_school
+https://bibiriboza.github.io/rsschool-cv/cv
